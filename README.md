@@ -36,13 +36,13 @@ To get started, follow these simple steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/landing-page.git
+   https://github.com/r10ezz/Nike-Landing-Page
    ```
 
 2. **Navigate to the project folder:**
 
    ```bash
-   cd landing-page
+   cd project-name
    ```
 
 3. **Open the `index.html` file in your browser:**
